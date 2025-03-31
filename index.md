@@ -1,3 +1,7 @@
+---
+layout: default
+title: hyde
+---
 # 임재민 가상 이력서
 
 ## 인적사항
