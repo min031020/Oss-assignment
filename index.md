@@ -5,7 +5,7 @@
 + **나이**: 26살 (2003년생)
 + **Phone**: 010-2021-5804
 + **E-mail**: min031020@naver.com  
-![본인](/me.jpg)
+![본인](/pic1.jpg)
 
 ## **프로필**
 + **GitHub**: <https://github.com/min031020>
