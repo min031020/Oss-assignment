@@ -1,6 +1,5 @@
 ---
-layout: default
-title: hyde
+title: jekyll-theme-hyde
 ---
 # 임재민 가상 이력서
 
