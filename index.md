@@ -94,7 +94,7 @@
 
 ## 자격증
 | **Machine Learning Certification**                            |  취득일  |
-|--------------------------------------**-------------------|:-------:|
+|-----------------------------------------------------------|:-------:|
 | **TensorFlow Developer Certificate**                      | 2025.04 |
 | **Google Machine Learning Engineer Certificate**          | 2025.10 |
 | **Microsoft Certified: Azure AI Engineer Associate**      | 2026.02 |
