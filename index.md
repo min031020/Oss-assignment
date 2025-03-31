@@ -93,16 +93,16 @@
 
 
 ## 자격증
-| **Machine Learning Certification**                            |  취득일  |
+| **Machine Learning Certification**                        |  취득일  |
 |-----------------------------------------------------------|:-------:|
 | **TensorFlow Developer Certificate**                      | 2025.04 |
 | **Google Machine Learning Engineer Certificate**          | 2025.10 |
 | **Microsoft Certified: Azure AI Engineer Associate**      | 2026.02 |
 | **AWS Certified Machine Learning – Specialty**            | 2026.07 |
 | **Certified Artificial Intelligence Practitioner (CAIP)** | 2027.03 |
-| **Professional Machine Learning Engineer (Google Cloud)** | 2027.09 |      
+| **Professional Machine Learning Engineer (Google Cloud)** | 2027.09 |
 
-| **Data Analytics Certification**                            |  취득일  |
+| **Data Analytics Certification**                        |  취득일  |
 |---------------------------------------------------------|:-------:|
 | **ADsP**                                                | 2025.05 |
 | **SQSD**                                                | 2025.12 |
@@ -116,7 +116,7 @@
 
 ## 수상
 
-|             대회명             |        수상 내역          | 취득일  |
+|             **대회명**        |        수상 내역          | 취득일  |
 |-------------------------------|---------------------------|:-------:|
 | **Kaggle Competitions**       | Kaggle Grandmaster        | 2025.03 |
 | **Google AI Hackathon**       | Excellence Award          | 2025.08 |
