@@ -17,14 +17,13 @@
 >향후 다양한 도메인에서 적용 가능한 ***기계 학습 모델을 구축***하는 데 기여하고 싶습니다.
 
 ## 교육
-  
+
 |학교명          |재학기간       |
 |---------------|:-------------:|
 |광운대학교      |2022.03~2028.02|
-|서울명덕고등학교|2019.03~2022.02|  
-    
+|서울명덕고등학교|2019.03~2022.02|
+
 ## **Machine Learning Intern**  
- 
 **Stanford AI Lab**, 2025.07 - 2025.11  
 - **강화학습**(Reinforcement Learning) 기반의 로봇 제어 모델 개발  
 - **OpenAI Gym**을 사용하여 로봇 시뮬레이션 환경에서 모델 학습 진행  
@@ -126,3 +125,6 @@
 | **Samsung AI Challenge**      | Grand Prize               | 2026.01 |
 | **NeurIPS Competition Track** | 1st Place (Winner)        | 2027.06 |
 | **RobustML Competition**      | Top 3 Finalist            | 2028.02 |
+
+
+
