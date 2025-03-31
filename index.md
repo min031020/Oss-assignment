@@ -10,11 +10,6 @@ layout: default
 + **E-mail**: min031020@naver.com  
 ![본인](/me.jpg)
 
-
-
-
-
-
 ## 프로필
 + **GitHub**: <https://github.com/min031020>
 + **LinkedIn**: <https://www.linkedin.com/in/min031020/>
