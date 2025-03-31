@@ -100,7 +100,7 @@
 | **Microsoft Certified: Azure AI Engineer Associate**      | 2026.02 |
 | **AWS Certified Machine Learning – Specialty**            | 2026.07 |
 | **Certified Artificial Intelligence Practitioner (CAIP)** | 2027.03 |
-| **Professional Machine Learning Engineer (Google Cloud)** | 2027.09 |
+| **Professional Machine Learning Engineer (Google Cloud)** | 2027.09 |      
 
 | **Data Analytics Certification**                            |  취득일  |
 |---------------------------------------------------------|:-------:|
