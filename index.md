@@ -93,6 +93,7 @@
 
 
 ## 자격증
+
 | **Machine Learning Certification**                        |  취득일  |
 |-----------------------------------------------------------|:-------:|
 | **TensorFlow Developer Certificate**                      | 2025.04 |
