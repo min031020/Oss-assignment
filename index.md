@@ -124,7 +124,6 @@
 | 일본어     | Business Japanese Fluency Certificate (BJFC)        | Executive              | 2027-11-05 |
 | 독일어     | Deutsche Sprachkompetenzprüfung (DSP)               | Stufe C2 Meisterklasse | 2025-12-01 |
 | 독일어     | German Business Fluency Test (GBFT)                 | Executive Level        | 2026-10-20 |
-| 중국어     | Advanced Mandarin Proficiency Certification (AMPC)  | HSK 7+ Grandmaster     | 2027-06-15 |
 | 중국어     | Chinese Corporate Language Proficiency Exam (CCLPE) | Supreme                | 2028-01-08 |
 | 프랑스어   | French International Language Mastery (FILM)        | C2 Suprême             | 2025-08-25 |
 | 스페인어   | Spanish Business & Communication Exam (SBCE)        | C2 Maestría            | 2027-09-28 |
