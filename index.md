@@ -117,6 +117,9 @@
 |------------|-----------------------------------------------------|-----------------------|-------------|
 | 영어       | Global English Proficiency Exam (GEPE)              | C2 Mastery             | 2025-06-15 |
 | 영어       | International Business English Certification (IBEC) | Elite                  | 2026-03-22 |
+| 영어       | TOEFL (Test of English as a Foreign Language)       | 120점 (만점)            | 2026-08-12 |
+| 영어       | OPIc (Oral Proficiency Interview - Computer)        | AL (Advanced Low)      | 2025-11-05 |
+| 영어       | Cambridge C2 Proficiency (CPE)                      | Grade A (최고 등급)     | 2027-04-18 |
 | 일본어     | Japanese Communication Proficiency Test (JCPT)      | Level S (Superior)     | 2025-09-10 |
 | 일본어     | Business Japanese Fluency Certificate (BJFC)        | Executive              | 2027-11-05 |
 | 독일어     | Deutsche Sprachkompetenzprüfung (DSP)               | Stufe C2 Meisterklasse | 2025-12-01 |
