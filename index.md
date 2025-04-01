@@ -69,7 +69,7 @@
     + **성과**: 
         + KoBERT 모델을 사용하여 리뷰의 감성 분석 정확도 92% 달성  
         + 고객의 부정적인 피드백을 실시간으로 분석하여 즉각적인 서비스 개선 및 맞춤형 프로모션 제공 → 고객 만족도 10% 향상  
-    + **기술 스택**: Python 3.11, PyTorch 2.0, Hugging Face, KoBERT, NLTK, Scikit-learn
+    + **사용 기술**: Python 3.11, PyTorch 2.0, Hugging Face, KoBERT, NLTK, Scikit-learn
 
 2. **불량 제품 검출을 위한 이미지 분류 (CNN)**
    + **목표**: 제조 공정에서 불량 제품을 자동으로 감지하는 모델 개발
@@ -80,7 +80,7 @@
     + **성과**: 
         + 검출 정확도 94% 달성 (기존 수작업 검수 대비 30% 향상)  
         + 실시간 불량 감지 시스템으로 연결하여 생산 라인의 불량률 감소 
-    + **기술 스택**: Python 3.11, TensorFlow 2.12, OpenCV, FastAPI
+    + **사용 기술**: Python 3.11, TensorFlow 2.12, OpenCV, FastAPI
 
 3. **고객 이탈 예측 모델 개발**
    + **목표**: 고객의 서비스 이탈(Churn)을 예측하여 마케팅 전략을 최적화
@@ -89,7 +89,7 @@
    + **성과**:
        + XGBoost 모델이 87%의 F1-score로 가장 높은 성능을 기록
       + 예측된 이탈 고객에게 맞춤형 할인 쿠폰 제공 → 이탈률 12% 감소
-   + **기술 스택**: Python 3.11, Pandas, Scikit-learn, XGBoost, Matplotlib, Seaborn
+   + **사용 기술**: Python 3.11, Pandas, Scikit-learn, XGBoost, Matplotlib, Seaborn
 
 ## 자격증
 
