@@ -91,10 +91,9 @@
       + 예측된 이탈 고객에게 맞춤형 할인 쿠폰 제공 → 이탈률 12% 감소
    + **기술 스택**: Python 3.11, Pandas, Scikit-learn, XGBoost, Matplotlib, Seaborn
 
-
 ## 자격증
 
-| **Machine Learning Certification**                        |  취득일  |
+| **Machine Learning Certification**                        |**취득일**|
 |-----------------------------------------------------------|:-------:|
 | **TensorFlow Developer Certificate**                      | 2025.04 |
 | **Google Machine Learning Engineer Certificate**          | 2025.10 |
@@ -103,7 +102,7 @@
 | **Certified Artificial Intelligence Practitioner (CAIP)** | 2027.03 |
 | **Professional Machine Learning Engineer (Google Cloud)** | 2027.09 |
 
-| **Data Analytics Certification**                        |  취득일  |
+| **Data Analytics Certification**                        |**취득일**|
 |---------------------------------------------------------|:-------:|
 | **ADsP**                                                | 2025.05 |
 | **SQSD**                                                | 2025.12 |
@@ -117,7 +116,7 @@
 
 ## 수상
 
-|             **대회명**        |        수상 내역          | 취득일  |
+|             **대회명**        |        **수상 내역**       |**취득일**|
 |-------------------------------|---------------------------|:-------:|
 | **Kaggle Competitions**       | Kaggle Grandmaster        | 2025.03 |
 | **Google AI Hackathon**       | Excellence Award          | 2025.08 |
